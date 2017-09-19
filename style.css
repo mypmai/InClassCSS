@@ -1,0 +1,58 @@
+#wrapper{
+	
+	background-color: grey;
+	width: 1000px;
+	height: 1150px;
+	margin:0 auto;
+
+
+}
+
+.red{
+	background-color: red;
+	width: 400px;
+	height: 200px;
+	display: inline-block;
+	margin: 49px;
+}
+
+#blue{
+	background-color: blue;
+	height: 200px;
+	width: 900px;
+	margin-left: 49px;
+
+}
+.yellow{
+	background-color: yellow;
+	width: 232px;
+	height: 200px;
+	display: inline-block;
+	margin: 49px;
+}
+#green{
+	background-color: green;
+	height: 200px;
+	width: 800px;
+	margin-left: 49px;
+	padding:49px;
+}
+#left{
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+	display: inline-block;
+	margin-right: 390px;
+
+
+
+}
+#right{
+	height: 200px;
+	width: 200px;
+	background-color: purple;
+	display: inline-block;
+	
+	vertical-align: top;
+
+}
